@@ -21,7 +21,7 @@
 
     - name: Clone Node.js app repository
       git:
-        repo: https://github.com/PramithaMJ/Personal_Financial_Tracker_Web_App
+        repo: https://github.com/sreshta-12/personal-finance-tracker
         dest: /var/www/html/mern-project
 
     - name: Build Docker image

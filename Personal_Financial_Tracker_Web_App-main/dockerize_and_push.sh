@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Set your Docker Hub username and desired tag
-DOCKER_HUB_USERNAME="pramithamj"
+DOCKER_HUB_USERNAME="Sreshta12"
 TAG="v1.0.2"
 
 # Log in to Docker Hub

@@ -1,6 +1,6 @@
 #!/bin/bash
 
-DOCKER_HUB_USERNAME="pramithamj"
+DOCKER_HUB_USERNAME="Sreshta12"
 TAG="v1.0.0"
 
 # Log in to Docker Hub
